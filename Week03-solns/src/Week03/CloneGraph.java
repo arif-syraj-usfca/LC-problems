@@ -19,7 +19,7 @@ class Node {
     }
 }
 
-class Solution {
+class CloneGraph {
     // HashMap to store values of nodes to their new copies
     public Map<Integer, Node> nodeCopyMap = new HashMap<>();
 
