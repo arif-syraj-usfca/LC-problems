@@ -1,4 +1,6 @@
-/*
+import java.util.*;
+import java.util.Objects;
+
 // Definition for a Node.
 class Node {
     public int val;
@@ -16,7 +18,6 @@ class Node {
         neighbors = _neighbors;
     }
 }
-*/
 
 class Solution {
     // HashMap to store values of nodes to their new copies
